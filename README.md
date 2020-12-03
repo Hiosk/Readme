@@ -1,7 +1,7 @@
 <img src="https://hiosk.com.br/images/devloper.png" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left">
-Hello, my name is Leonardo. I am **Front/Back-end Developer** and one of the founders of **OneLife EnterPrise**.
+Hello, my name is Leonardo. I am <strong>Front/Back-end Developer</strong> and one of the founders of **OneLife EnterPrise**.
 I am a **computer science** student at Estácio de Sá College.
 </p>
 
